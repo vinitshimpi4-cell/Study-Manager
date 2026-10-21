@@ -1,0 +1,5 @@
+1. RIGHT-CLICK this zip -> "Extract All" (do NOT open StudyVault.html from inside the zip).
+2. Open StudyVault.html in Google Chrome or Microsoft Edge (not Firefox, Safari or Brave).
+3. Click "Choose folder" and pick your main folder (e.g. Documents\StudyVault).
+4. Next time, click "Reconnect folder" once.
+If something fails, a message appears at the bottom-right - send me that text.
